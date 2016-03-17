@@ -12,7 +12,7 @@ function E_p=main(beta,nor)
 global LENGTH;
 global DIMENSIONS;
 global NVOL;
-LENGTH=8;
+LENGTH=6;
 seed=5;
 rng(seed,'twister')
 n_measure=30;
